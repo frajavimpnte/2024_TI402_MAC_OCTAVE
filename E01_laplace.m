@@ -10,7 +10,7 @@ syms t positive
 
 %% definir una función
 disp('Función en el tiempo')
-f = 4*sin(2*t)
+f = 1*sin(2*pi*1*t)
 
 %% transformada de Laplace
 disp('Tranformada de Laplace')
